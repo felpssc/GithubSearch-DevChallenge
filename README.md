@@ -32,8 +32,8 @@ O<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite a evolução d
 O desafio foi criar um site de busca de usuários e repositórios do github através da sua API!
 ## Requisitos:
 - A pagina inicial precisa ter um campo de busca, a busca devera ser feita ao clicar no botão de busca<br>
-- A resposta da página deverá exibir as informaçes do usuario, tais como nome, followers , following, stars, empresa e localização<br>
-- A resposta da página deverá exibir as informaçes dos repositórios, tais como o nome do repositório, descrição do projeto, stars, forks e um link que direciona para o repositório no Github<br>
+- A resposta da página deverá exibir as informações do usuário, tais como nome, followers , following, stars, empresa e localização<br>
+- A resposta da página deverá exibir as informações dos repositórios, tais como o nome do repositório, descrição do projeto, stars, forks e um link que direciona para o repositório no Github<br>
 
 
 # Techs: 
@@ -46,7 +46,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 ## Modelo da aplicação:
 
 <p align="center">
-    <img src="./src/assets/images/layout.png" alt="Logo" width="1000">
+    <img src="./src/assets/images/layout.png" alt="Layout" width="1000">
 </p>
 
 ## Aplicação acessível em: [Github Search](https://github-search-felpssc.vercel.app/)
